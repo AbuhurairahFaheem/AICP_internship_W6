@@ -1,11 +1,8 @@
 AICP Internship Task Week 6
 
 Write and test a program or programs for the Wildlife Park:
-Your program or programs must include appropriate prompts for the entry of data. Data
-must be validated on entry.
-All outputs, including error messages, need to be set out clearly and understandably.
-All variables, constants and other identifiers must have meaningful names.
-You will need to complete these three tasks. Each task must be fully tested.
+Your program or programs must include appropriate prompts for the entry of data. 
+
 _______________________________________________________________________________________________________________________________
 Task 1 – displaying the ticket options and the extra attractions available
 Set up your program to:
